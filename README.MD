@@ -3,10 +3,10 @@
 Simple Java Application used by educational institution to Manage a Database of Students.
 
 [![GitHub stars](https://img.shields.io/github/stars/mogrady-git/student-manager-2.0.svg?style=social&label=Stars)](https://github.com/mogrady-git/vanilla-scroll-to-top)
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-gitstudent-manager-2.0">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/student-manager-2.0">
 <a href="https://mogrady-git.github.io/student-manager-2.0"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Demo-green"></a>
 
-<img src="https://github.com/mogrady-git/vanilla-scroll-to-top/blob/master/preview-image.gif" width="100%"/>
+<img src="https://github.com/mogrady-git/student-manager-2.0/blob/master/Animated%20GIF-original.mp4" width="100%"/>
 
 ### Features
 
