@@ -1,6 +1,6 @@
 # Java Applications - Student Manager Application 2.0
 
-Simple Java Application used by educational institution to Manage a Database of Students.
+Simple Java Application used by educational institution to Manage a Database of Students..
 
 [![GitHub stars](https://img.shields.io/github/stars/mogrady-git/student-manager-2.0.svg?style=social&label=Stars)](https://github.com/mogrady-git/vanilla-scroll-to-top)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/student-manager-2.0">
